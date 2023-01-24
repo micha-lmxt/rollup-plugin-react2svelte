@@ -1,0 +1,13 @@
+export const $props = "_$p$_";
+export const $getProps = "q$9q$";
+export const $Interop = "__Interop__";
+export const importInterop = `import {Interop as ${$Interop}} from 'react-svelte-interop'`;
+//export const importInteropS = `import {Interop as ${$Interop}} from 'react-svelte-interop'`;
+export const $React = "RqXqZT"
+export const $refAction = "__ReFaCTI0n";
+export const $classHook = "__klassHUUk$";
+export const importReact = `import {WrappedReactComponent as ${$React}} from 'react-svelte-interop'`;
+export const importAnything = "import {Anything} from 'react-svelte-interop'";
+export const $refresh = "r$$_qP"
+export const $interopRefresh = "__$reactRefresher__";
+export const transpiledFolder = {current:"virtual:",default:true}

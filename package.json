@@ -1,0 +1,29 @@
+{
+    "name": "rollup-plugin-react2svelte",
+    "version": "1.0.0",
+    "description": "Transpile React to Svelte",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "rollup-plugin",
+        "React",
+        "Svelte"
+    ],
+    "author": "Michael Lucht",
+    "license": "MIT",
+    "dependencies": {
+        "acorn-globals": "^7.0.1",
+        "astring": "^1.8.3",
+        "estree-walker": "^3.0.1",
+        "hooks-as-store": "^0.0.1",
+        "is-reference": "^3.0.0",
+        "magic-string": "^0.26.7"
+    },
+    "type": "module",
+    "devDependencies": {
+        "fs": "^0.0.1-security",
+        "path": "^0.12.7"
+    }
+}
